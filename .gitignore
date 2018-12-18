@@ -1,4 +1,6 @@
 /*.md
+/*.project
 /target/
 /bin/
+/*.classpath
 /*.settings
